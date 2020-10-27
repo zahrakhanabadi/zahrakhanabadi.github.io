@@ -1,8 +1,8 @@
 ### About Me
-I am Khanabadi
-Born in 1998/4/5 in Tehran
-I have been swimming part-time since I was 15 years old
-I study computer engineering at North Tehran University 
+I am Khanabadi,
+Born in 1998/4/5 in Tehran,
+I have been swimming part-time since I was 15 years old,
+I study computer engineering at North Tehran University,
 ### Skills
  + Sweeming
  + Kofi handwriting
