@@ -10,7 +10,6 @@ I study computer engineering at North Tehran University,
 .
 .
 .
-
 ###Contact Me
 
 -Gmail: Zahra.khanabadi1997@gmail.com
