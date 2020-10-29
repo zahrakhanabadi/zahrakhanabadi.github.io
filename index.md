@@ -5,11 +5,7 @@ Born in 1998/4/5 in Tehran,
 I have been swimming part-time since I was 15 years old,
 I study computer engineering at North Tehran University,
 ### Skills
- + Sweeming,
- + Kofi handwriting,
-
-
-
+ + Sweeming
+ + Kofi hand writing
 ###Contact Me
-
--Gmail: Zahra.khanabadi1997@gmail.com
+ + Gmail: Zahra.khanabadi1997@gmail.com
