@@ -7,9 +7,6 @@ I study computer engineering at North Tehran University,
 ### Skills
  + Sweeming,
  + Kofi handwriting,
-.
-.
-.
 ###Contact Me
 
 -Gmail: Zahra.khanabadi1997@gmail.com
