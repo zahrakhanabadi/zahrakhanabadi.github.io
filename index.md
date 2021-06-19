@@ -20,6 +20,8 @@ I also have a degree in mathematics and physics.
 
 + English(Intermediate)
 
++ french
+
 ### Skills
 + Sweeming
 + Kofi Handwriting
@@ -48,6 +50,8 @@ I also have a degree in mathematics and physics.
 + فارسی
 
 + (انگلیسی  (متوسط
+
++ فرانسوی
 
 ### مهارت ها
 + شنا
