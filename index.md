@@ -2,7 +2,7 @@
 
 ### About Me
 I am Zahra Khanabadi , born on 1998/4/5
-I am a bachelor student of Payame Noor University of North Tehran , entrance 96;
+Bsc in computer engineering.
 I also have a degree in mathematics and physics.
 
 ### phon number
